@@ -8,7 +8,7 @@
 
 
 
-![nlwesports](G:\Downloads\nlwesports.PNG)
+<img src="C:\Users\Luan\AppData\Roaming\Typora\typora-user-images\image-20221029143750917.png"/>
 
 <hr/>
 
