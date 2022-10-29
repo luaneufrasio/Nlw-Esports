@@ -6,9 +6,9 @@
 
 ## Imagem do Projeto:rocket:
 
-![image-20221029135833640](C:\Users\Luan\AppData\Roaming\Typora\typora-user-images\image-20221029135833640.png)
 
 
+![nlwesports](G:\Downloads\nlwesports.PNG)
 
 <hr/>
 
